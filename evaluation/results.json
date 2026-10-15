@@ -1,0 +1,1205 @@
+{
+  "dense": {
+    "top_k": 5,
+    "hit_rate": 1.0,
+    "mrr": 0.9055555555555556,
+    "keyword_coverage": 0.8466666666666666,
+    "avg_latency_ms": 186.93040999999843,
+    "cases": [
+      {
+        "id": "tea_001",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          2,
+          19,
+          7,
+          11
+        ]
+      },
+      {
+        "id": "tea_002",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          18,
+          17,
+          14,
+          11
+        ]
+      },
+      {
+        "id": "tea_003",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          3,
+          3,
+          19,
+          6,
+          6
+        ]
+      },
+      {
+        "id": "tea_004",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          3,
+          3,
+          19,
+          17,
+          17
+        ]
+      },
+      {
+        "id": "tea_005",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          5,
+          2,
+          2,
+          18,
+          11
+        ]
+      },
+      {
+        "id": "tea_006",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          6,
+          2,
+          2,
+          6,
+          15
+        ]
+      },
+      {
+        "id": "tea_007",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.75,
+        "pages": [
+          6,
+          6,
+          18,
+          17,
+          2
+        ]
+      },
+      {
+        "id": "tea_008",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          8,
+          7,
+          10,
+          23,
+          9
+        ]
+      },
+      {
+        "id": "tea_009",
+        "hit": true,
+        "rrf": 0.5,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          7,
+          7,
+          17,
+          8
+        ]
+      },
+      {
+        "id": "tea_010",
+        "hit": true,
+        "rrf": 0.3333333333333333,
+        "keyword_coverage": 1.0,
+        "pages": [
+          23,
+          10,
+          8,
+          8,
+          7
+        ]
+      },
+      {
+        "id": "tea_011",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          9,
+          8,
+          7,
+          7,
+          10
+        ]
+      },
+      {
+        "id": "tea_012",
+        "hit": true,
+        "rrf": 0.5,
+        "keyword_coverage": 1.0,
+        "pages": [
+          7,
+          9,
+          8,
+          7,
+          23
+        ]
+      },
+      {
+        "id": "tea_013",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          10,
+          8,
+          7,
+          13,
+          11
+        ]
+      },
+      {
+        "id": "tea_014",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          11,
+          11,
+          17,
+          2,
+          8
+        ]
+      },
+      {
+        "id": "tea_015",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.75,
+        "pages": [
+          11,
+          11,
+          14,
+          2,
+          17
+        ]
+      },
+      {
+        "id": "tea_016",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.75,
+        "pages": [
+          12,
+          11,
+          8,
+          2,
+          17
+        ]
+      },
+      {
+        "id": "tea_017",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          13,
+          14,
+          13,
+          13,
+          10
+        ]
+      },
+      {
+        "id": "tea_018",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          14,
+          14,
+          17,
+          8,
+          15
+        ]
+      },
+      {
+        "id": "tea_019",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          15,
+          15,
+          2,
+          10,
+          23
+        ]
+      },
+      {
+        "id": "tea_020",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.8,
+        "pages": [
+          16,
+          16,
+          7,
+          2,
+          8
+        ]
+      },
+      {
+        "id": "tea_021",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.8,
+        "pages": [
+          17,
+          17,
+          2,
+          24,
+          2
+        ]
+      },
+      {
+        "id": "tea_022",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.25,
+        "pages": [
+          18,
+          2,
+          24,
+          21,
+          2
+        ]
+      },
+      {
+        "id": "tea_023",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.5,
+        "pages": [
+          19,
+          19,
+          23,
+          7,
+          2
+        ]
+      },
+      {
+        "id": "tea_024",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          19,
+          19,
+          19,
+          8,
+          7
+        ]
+      },
+      {
+        "id": "tea_025",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.2,
+        "pages": [
+          20,
+          2,
+          21,
+          2,
+          2
+        ]
+      },
+      {
+        "id": "tea_026",
+        "hit": true,
+        "rrf": 0.3333333333333333,
+        "keyword_coverage": 0.6,
+        "pages": [
+          24,
+          17,
+          20,
+          2,
+          2
+        ]
+      },
+      {
+        "id": "tea_027",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.8,
+        "pages": [
+          21,
+          5,
+          20,
+          21,
+          20
+        ]
+      },
+      {
+        "id": "tea_028",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.2,
+        "pages": [
+          22,
+          21,
+          2,
+          2,
+          24
+        ]
+      },
+      {
+        "id": "tea_029",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          23,
+          23,
+          8,
+          19,
+          7
+        ]
+      },
+      {
+        "id": "tea_030",
+        "hit": true,
+        "rrf": 0.5,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          24,
+          1,
+          2,
+          21
+        ]
+      }
+    ]
+  },
+  "sparse": {
+    "top_k": 5,
+    "hit_rate": 0.8333333333333334,
+    "mrr": 0.7733333333333333,
+    "keyword_coverage": 0.711111111111111,
+    "avg_latency_ms": 5.007116666668783,
+    "cases": [
+      {
+        "id": "tea_001",
+        "hit": false,
+        "rrf": 0.0,
+        "keyword_coverage": 0.0,
+        "pages": [
+          5,
+          5,
+          5,
+          5,
+          6
+        ]
+      },
+      {
+        "id": "tea_002",
+        "hit": false,
+        "rrf": 0.0,
+        "keyword_coverage": 0.0,
+        "pages": [
+          5,
+          5,
+          5,
+          5,
+          16
+        ]
+      },
+      {
+        "id": "tea_003",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          3,
+          3,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "id": "tea_004",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          3,
+          3,
+          23,
+          6,
+          5
+        ]
+      },
+      {
+        "id": "tea_005",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          5,
+          5,
+          5,
+          6,
+          6
+        ]
+      },
+      {
+        "id": "tea_006",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          6,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "id": "tea_007",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          6,
+          6,
+          6,
+          6,
+          11
+        ]
+      },
+      {
+        "id": "tea_008",
+        "hit": false,
+        "rrf": 0.0,
+        "keyword_coverage": 0.3333333333333333,
+        "pages": [
+          23,
+          5,
+          9,
+          5,
+          10
+        ]
+      },
+      {
+        "id": "tea_009",
+        "hit": true,
+        "rrf": 0.5,
+        "keyword_coverage": 1.0,
+        "pages": [
+          5,
+          7,
+          7,
+          4,
+          8
+        ]
+      },
+      {
+        "id": "tea_010",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          8,
+          8,
+          5,
+          5,
+          23
+        ]
+      },
+      {
+        "id": "tea_011",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          9,
+          7,
+          7,
+          8,
+          5
+        ]
+      },
+      {
+        "id": "tea_012",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          9,
+          7,
+          7,
+          5,
+          8
+        ]
+      },
+      {
+        "id": "tea_013",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          10,
+          5,
+          5,
+          7,
+          16
+        ]
+      },
+      {
+        "id": "tea_014",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          11,
+          5,
+          11,
+          5,
+          5
+        ]
+      },
+      {
+        "id": "tea_015",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          11,
+          14,
+          5,
+          11,
+          10
+        ]
+      },
+      {
+        "id": "tea_016",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.5,
+        "pages": [
+          12,
+          5,
+          5,
+          15,
+          24
+        ]
+      },
+      {
+        "id": "tea_017",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          13,
+          12,
+          11,
+          10,
+          11
+        ]
+      },
+      {
+        "id": "tea_018",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          14,
+          14,
+          17,
+          9,
+          13
+        ]
+      },
+      {
+        "id": "tea_019",
+        "hit": false,
+        "rrf": 0.0,
+        "keyword_coverage": 0.0,
+        "pages": [
+          5,
+          5,
+          5,
+          2,
+          5
+        ]
+      },
+      {
+        "id": "tea_020",
+        "hit": true,
+        "rrf": 0.5,
+        "keyword_coverage": 0.8,
+        "pages": [
+          5,
+          16,
+          5,
+          6,
+          16
+        ]
+      },
+      {
+        "id": "tea_021",
+        "hit": false,
+        "rrf": 0.0,
+        "keyword_coverage": 0.0,
+        "pages": [
+          3,
+          5,
+          3,
+          21,
+          7
+        ]
+      },
+      {
+        "id": "tea_022",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.25,
+        "pages": [
+          18,
+          16,
+          20,
+          5,
+          5
+        ]
+      },
+      {
+        "id": "tea_023",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.25,
+        "pages": [
+          19,
+          19,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "id": "tea_024",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          19,
+          19,
+          23,
+          3,
+          7
+        ]
+      },
+      {
+        "id": "tea_025",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.2,
+        "pages": [
+          20,
+          5,
+          5,
+          20,
+          20
+        ]
+      },
+      {
+        "id": "tea_026",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          20,
+          20,
+          21,
+          24,
+          22
+        ]
+      },
+      {
+        "id": "tea_027",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.8,
+        "pages": [
+          21,
+          21,
+          5,
+          2,
+          2
+        ]
+      },
+      {
+        "id": "tea_028",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.2,
+        "pages": [
+          22,
+          24,
+          20,
+          22,
+          22
+        ]
+      },
+      {
+        "id": "tea_029",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          23,
+          23,
+          18,
+          9,
+          15
+        ]
+      },
+      {
+        "id": "tea_030",
+        "hit": true,
+        "rrf": 0.2,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          1,
+          5,
+          3,
+          24
+        ]
+      }
+    ]
+  },
+  "hybrid": {
+    "top_k": 5,
+    "hit_rate": 1.0,
+    "mrr": 0.8944444444444444,
+    "keyword_coverage": 0.9088888888888889,
+    "avg_latency_ms": 216.12472666668813,
+    "cases": [
+      {
+        "id": "tea_001",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          2,
+          5,
+          7,
+          2
+        ]
+      },
+      {
+        "id": "tea_002",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          17,
+          14,
+          13,
+          18
+        ]
+      },
+      {
+        "id": "tea_003",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          3,
+          3,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "id": "tea_004",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          3,
+          3,
+          6,
+          17,
+          7
+        ]
+      },
+      {
+        "id": "tea_005",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          5,
+          2,
+          21,
+          20,
+          2
+        ]
+      },
+      {
+        "id": "tea_006",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          6,
+          6,
+          5,
+          20,
+          15
+        ]
+      },
+      {
+        "id": "tea_007",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.75,
+        "pages": [
+          6,
+          6,
+          2,
+          24,
+          18
+        ]
+      },
+      {
+        "id": "tea_008",
+        "hit": true,
+        "rrf": 0.25,
+        "keyword_coverage": 0.6666666666666666,
+        "pages": [
+          23,
+          9,
+          10,
+          8,
+          19
+        ]
+      },
+      {
+        "id": "tea_009",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          7,
+          7,
+          2,
+          8,
+          2
+        ]
+      },
+      {
+        "id": "tea_010",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          8,
+          8,
+          23,
+          19,
+          18
+        ]
+      },
+      {
+        "id": "tea_011",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          9,
+          7,
+          8,
+          7,
+          10
+        ]
+      },
+      {
+        "id": "tea_012",
+        "hit": true,
+        "rrf": 0.5,
+        "keyword_coverage": 1.0,
+        "pages": [
+          7,
+          9,
+          7,
+          8,
+          23
+        ]
+      },
+      {
+        "id": "tea_013",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          10,
+          16,
+          7,
+          23,
+          8
+        ]
+      },
+      {
+        "id": "tea_014",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          11,
+          11,
+          5,
+          2,
+          17
+        ]
+      },
+      {
+        "id": "tea_015",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          11,
+          11,
+          14,
+          14,
+          10
+        ]
+      },
+      {
+        "id": "tea_016",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.75,
+        "pages": [
+          12,
+          15,
+          15,
+          17,
+          17
+        ]
+      },
+      {
+        "id": "tea_017",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          13,
+          12,
+          10,
+          13,
+          11
+        ]
+      },
+      {
+        "id": "tea_018",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          14,
+          14,
+          13,
+          17,
+          17
+        ]
+      },
+      {
+        "id": "tea_019",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          15,
+          2,
+          2,
+          13,
+          17
+        ]
+      },
+      {
+        "id": "tea_020",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.8,
+        "pages": [
+          16,
+          16,
+          7,
+          7,
+          10
+        ]
+      },
+      {
+        "id": "tea_021",
+        "hit": true,
+        "rrf": 0.25,
+        "keyword_coverage": 0.8,
+        "pages": [
+          24,
+          21,
+          2,
+          17,
+          17
+        ]
+      },
+      {
+        "id": "tea_022",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          18,
+          20,
+          11,
+          21,
+          18
+        ]
+      },
+      {
+        "id": "tea_023",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.5,
+        "pages": [
+          19,
+          19,
+          23,
+          5,
+          24
+        ]
+      },
+      {
+        "id": "tea_024",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          19,
+          19,
+          23,
+          7,
+          8
+        ]
+      },
+      {
+        "id": "tea_025",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          20,
+          2,
+          20,
+          21,
+          2
+        ]
+      },
+      {
+        "id": "tea_026",
+        "hit": true,
+        "rrf": 0.5,
+        "keyword_coverage": 1.0,
+        "pages": [
+          24,
+          20,
+          21,
+          20,
+          21
+        ]
+      },
+      {
+        "id": "tea_027",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.8,
+        "pages": [
+          21,
+          20,
+          2,
+          21,
+          20
+        ]
+      },
+      {
+        "id": "tea_028",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 0.2,
+        "pages": [
+          22,
+          24,
+          2,
+          21,
+          21
+        ]
+      },
+      {
+        "id": "tea_029",
+        "hit": true,
+        "rrf": 1.0,
+        "keyword_coverage": 1.0,
+        "pages": [
+          23,
+          23,
+          8,
+          19,
+          19
+        ]
+      },
+      {
+        "id": "tea_030",
+        "hit": true,
+        "rrf": 0.3333333333333333,
+        "keyword_coverage": 1.0,
+        "pages": [
+          2,
+          1,
+          24,
+          21,
+          5
+        ]
+      }
+    ]
+  },
+  "hybrid_rerank": {
+    "status": "not_configured",
+    "message": "RERANK_MODEL/RERANK_BINDING_HOST/RERANK_API_KEY 未完整配置，未执行 Rerank。",
+    "top_k": 5,
+    "cases": []
+  }
+}
